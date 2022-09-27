@@ -1,0 +1,12 @@
+.IconList {
+  list-style: none;
+  background-color: gray;
+}
+.IconList > li {
+  display: inline-block;
+}
+.linkLogo { 
+  box-sizing: border-box;
+  block-size: 40px;
+  margin: 10px;
+}

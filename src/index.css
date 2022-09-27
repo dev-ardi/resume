@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#slow-fade {
+  transition: cubic-bezier(.13,.68,.39,.89), 2s;
+  visibility: none;
+}

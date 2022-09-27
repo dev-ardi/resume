@@ -1,0 +1,32 @@
+.Name{
+  padding: 5px 30px;
+  margin: 0 5px;
+  border: 2px solid #f2e5d7;
+  /* border-top-style: none; */
+
+  font-size: 90px;
+  color: #a1020a;
+  font-weight: bold;
+}
+
+.Job{
+  padding: 5px 30px;
+  margin: 0 5px;
+  border: 2px solid #f2e5d7;
+  border-top-style: none;
+  
+  font-size: 45px;
+  color: #e57c04;  
+}
+.Section {
+  padding: 5px 30px;
+  margin: 5px;
+  border-bottom: 2px solid #f2e5d7;
+
+  color: #a1020a;
+  font-weight: bold;
+}
+
+.Intro{
+
+}
