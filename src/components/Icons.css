@@ -8,5 +8,12 @@
 .linkLogo { 
   box-sizing: border-box;
   block-size: 40px;
-  margin: 10px;
+  margin: 10px;  
+}
+.IconList > li > a {
+  color: black;
+}
+
+.linkLogo:hover{
+  filter: blur(1px);
 }

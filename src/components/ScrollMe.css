@@ -1,0 +1,6 @@
+.MouseIcon {
+    display: inline;
+    height: 30px;   
+    filter: invert(100%);  /* TODO, use inkscape or something */
+    
+}

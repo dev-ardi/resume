@@ -1,6 +1,7 @@
 import { Icon, IconList, IconPopup } from './Icons';
 import { Title } from './Title';
 import './App.css';
+import ScrollMe from './ScrollMe';
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <Title name='Backend developer' type='Job' />
       <Title name='Systems programmer' type='Job' />
       <IconList/>
-
+      <ScrollMe />
 
       </div>
     </div>
